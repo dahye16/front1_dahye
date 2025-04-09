@@ -1,0 +1,23 @@
+.name{
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+}
+
+.table{
+    text-align: center;
+}
+
+.table-th{
+   
+    background-color: antiquewhite;
+}
+
+th,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
